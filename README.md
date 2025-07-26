@@ -12,7 +12,7 @@ A simple weather app using HTML, CSS, and JavaScript.
 
 ---
 
-## 💻 How to Run
+##  How to Run
 
 1. Download all files (`index.html`, `style.css`, `script.js`)
 2. Open `index.html` in a browser
